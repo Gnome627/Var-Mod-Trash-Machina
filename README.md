@@ -1,6 +1,6 @@
 # **Var Mod**
 
-![Var Mod](https://i.imgur.com/4UMiTO9.png)
+![Var Mod](https://i.imgur.com/eP5FUcS.png)
 
 ## **Описание**
 
