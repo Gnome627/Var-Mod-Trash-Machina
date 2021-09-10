@@ -17,7 +17,7 @@ Various Modification (сокращённо Var Mod), также известны
 
 Некоторые антивирусы могут распознать исполняемый файл как вредоносный. К сожалению, полностью исправить эту проблему невозможно.
 
-Вот ссылка на [VirusTotal](https://www.virustotal.com/gui/file/e971fb45b663e3139cf1c424f8e6e1b04c741a7d05326ae275274a7f0be86f8b), где этот файл успешно прошёл проверку.
+Вот ссылка на [VirusTotal](https://www.virustotal.com/gui/file/1b29e82aa0ef6a28bf892d9995f0fd3809b3fe98ca397a03e0b416db067e70d5), где этот файл успешно прошёл проверку.
 
 1. Скачайте последний релиз [отсюда](https://github.com/zatinu322/Var-Mod-Trash-Machina/releases).
 2. **Обязательно** распакуйте архив в любую директорию.
